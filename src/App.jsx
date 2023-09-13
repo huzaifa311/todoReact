@@ -380,6 +380,8 @@ const App = () => {
     // console.log('Add Todo', todos);
   };
 
+
+
   let dltAll = () => {
     setTodos([]);
     // console.log("Delete All");

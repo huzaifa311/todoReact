@@ -1,6 +1,12 @@
 Components lifecycle{
-mount
-mounting
-unmount
+
+mount  {useeffect mein empty dependency array}
+
+mounting  {dependency array mein s function ka name de do
+                / 
+            dependency arr hi gayab kr do
+}
+
+unmount  {return k badd de do}
 }
 
